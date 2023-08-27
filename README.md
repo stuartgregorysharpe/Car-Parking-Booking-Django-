@@ -24,4 +24,4 @@ Fare chart for the correct fair of every vehicle depending upon the type of vehi
 This application also has a admin page for internal use only. Where the authorized person can see the details of vehicles that are parked inside the parking lot and the complaints that are registered by the users.
 <br />
 <br />
-_Checkout this project :_ **http://securepark.herokuapp.com/**
+
